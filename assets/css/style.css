@@ -66,7 +66,8 @@ th {
   text-transform: uppercase;
   color: rgba(21, 20, 57, 0.4);
   mix-blend-mode: normal;
-  text-align: start;
+  text-align: start2;
+text-align: start;
 }
 td {
   font-family: "DM Sans";
